@@ -22,11 +22,14 @@ This repository contains a script to set up essential development tools on a new
 - **Scala**: 3.1.3
 - **SBT**: 1.9.8
 
-### 3. Development Tools
+### 3. Python3
+- **Python**: 3.10 
+
+### 4. Development Tools
 - **Git**: Version control system.
 - **build-essential**: Includes `gcc`, `g++`, and `make`.
 
-### 4. Utilities
+### 5. Utilities
 - **Aptitude**: Advanced package manager.
 
 ---
